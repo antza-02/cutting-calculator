@@ -1,0 +1,3353 @@
+{
+  "paaluokat": [
+    {
+      "numero": "21",
+      "nimi": "EDUSKUNTA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Kansanedustajat",
+          "momentit": [
+            {
+              "id": "21.01.01",
+              "numero": "01",
+              "nimi": "Kansanedustajien toimintamenot",
+              "maaraaraha": 23865000
+            }
+          ],
+          "total": 23865000
+        },
+        {
+          "numero": "10",
+          "nimi": "Eduskunnan kanslia",
+          "momentit": [
+            {
+              "id": "21.10.01",
+              "numero": "01",
+              "nimi": "Eduskunnan kanslian toimintamenot",
+              "maaraaraha": 66117000
+            },
+            {
+              "id": "21.10.29",
+              "numero": "29",
+              "nimi": "Arvonlisäveromenot",
+              "maaraaraha": 7100000
+            },
+            {
+              "id": "21.10.51",
+              "numero": "51",
+              "nimi": "Avustajatuki eduskuntaryhmille",
+              "maaraaraha": 7722000
+            },
+            {
+              "id": "21.10.70",
+              "numero": "70",
+              "nimi": "Tietohallinnon laitehankinnat ja kehittämishankkeet",
+              "maaraaraha": 4500000
+            }
+          ],
+          "total": 85439000
+        },
+        {
+          "numero": "20",
+          "nimi": "Eduskunnan oikeusasiamies",
+          "momentit": [
+            {
+              "id": "21.20.01",
+              "numero": "01",
+              "nimi": "Eduskunnan oikeusasiamiehen kanslian toimintamenot",
+              "maaraaraha": 9638000
+            }
+          ],
+          "total": 9638000
+        },
+        {
+          "numero": "30",
+          "nimi": "Ulkopoliittinen instituutti",
+          "momentit": [
+            {
+              "id": "21.30.01",
+              "numero": "01",
+              "nimi": "Ulkopoliittisen instituutin toimintamenot",
+              "maaraaraha": 4921000
+            },
+            {
+              "id": "21.30.29",
+              "numero": "29",
+              "nimi": "Arvonlisäveromenot",
+              "maaraaraha": 280000
+            }
+          ],
+          "total": 5201000
+        },
+        {
+          "numero": "40",
+          "nimi": "Valtiontalouden tarkastusvirasto",
+          "momentit": [
+            {
+              "id": "21.40.01",
+              "numero": "01",
+              "nimi": "Valtiontalouden tarkastusviraston toimintamenot",
+              "maaraaraha": 17993000
+            },
+            {
+              "id": "21.40.29",
+              "numero": "29",
+              "nimi": "Arvonlisäveromenot",
+              "maaraaraha": 700000
+            }
+          ],
+          "total": 18693000
+        },
+        {
+          "numero": "90",
+          "nimi": "Eduskunnan muut menot",
+          "momentit": [
+            {
+              "id": "21.90.50",
+              "numero": "50",
+              "nimi": "Eduskuntaryhmien ryhmäkanslioiden tukeminen",
+              "maaraaraha": 5335000
+            }
+          ],
+          "total": 5335000
+        }
+      ],
+      "total": 148171000
+    },
+    {
+      "numero": "22",
+      "nimi": "TASAVALLAN PRESIDENTTI",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Tasavallan presidentti",
+          "momentit": [
+            {
+              "id": "22.01.01",
+              "numero": "01",
+              "nimi": "Tasavallan presidentin palkkio",
+              "maaraaraha": 160000
+            }
+          ],
+          "total": 160000
+        },
+        {
+          "numero": "02",
+          "nimi": "Tasavallan presidentin kanslia",
+          "momentit": [
+            {
+              "id": "22.02.01",
+              "numero": "01",
+              "nimi": "Tasavallan presidentin kanslian toimintamenot",
+              "maaraaraha": 9775000
+            },
+            {
+              "id": "22.02.02",
+              "numero": "02",
+              "nimi": "Entisten tasavallan presidenttien menot",
+              "maaraaraha": 550000
+            },
+            {
+              "id": "22.02.20",
+              "numero": "20",
+              "nimi": "Vierailuista ja kokousmatkoista aiheutuvat menot",
+              "maaraaraha": 1950000
+            },
+            {
+              "id": "22.02.29",
+              "numero": "29",
+              "nimi": "Arvonlisäveromenot",
+              "maaraaraha": 7500000
+            },
+            {
+              "id": "22.02.75",
+              "numero": "75",
+              "nimi": "Perusparannukset",
+              "maaraaraha": 9000000
+            }
+          ],
+          "total": 28775000
+        }
+      ],
+      "total": 28935000
+    },
+    {
+      "numero": "23",
+      "nimi": "VALTIONEUVOSTON KANSLIA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto",
+          "momentit": [
+            {
+              "id": "23.01.01",
+              "numero": "01",
+              "nimi": "Valtioneuvoston kanslian toimintamenot",
+              "maaraaraha": 151818000
+            },
+            {
+              "id": "23.01.02",
+              "numero": "02",
+              "nimi": "Ministereiden, heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset",
+              "maaraaraha": 15743000
+            },
+            {
+              "id": "23.01.03",
+              "numero": "03",
+              "nimi": "Euroopan unionin kansallisten asiantuntijoiden palkkamenot",
+              "maaraaraha": 2039000
+            },
+            {
+              "id": "23.01.21",
+              "numero": "21",
+              "nimi": "Yhdenvertaisuutta, tasa-arvoa ja syrjimättömyyttä koskevan tiedonannon toimeenpano",
+              "maaraaraha": 1500000
+            },
+            {
+              "id": "23.01.23",
+              "numero": "23",
+              "nimi": "Valtioneuvoston päätöksentekoa tukeva tutkimustoiminta",
+              "maaraaraha": 6000000
+            },
+            {
+              "id": "23.01.26",
+              "numero": "26",
+              "nimi": "Saamelaisten totuus- ja sovintoprosessin edistäminen",
+              "maaraaraha": 0
+            },
+            {
+              "id": "23.01.29",
+              "numero": "29",
+              "nimi": "Arvonlisäveromenot",
+              "maaraaraha": 19000000
+            }
+          ],
+          "total": 196100000
+        },
+        {
+          "numero": "10",
+          "nimi": "Omistajaohjaus",
+          "momentit": [
+            {
+              "id": "23.10.88",
+              "numero": "88",
+              "nimi": "Osakehankinnat",
+              "maaraaraha": 700000
+            }
+          ],
+          "total": 700000
+        },
+        {
+          "numero": "20",
+          "nimi": "Poliittisen toiminnan avustaminen",
+          "momentit": [
+            {
+              "id": "23.20.50",
+              "numero": "50",
+              "nimi": "Puoluetoiminnan tukeminen",
+              "maaraaraha": 34566000
+            }
+          ],
+          "total": 34566000
+        },
+        {
+          "numero": "30",
+          "nimi": "Oikeuskanslerinvirasto",
+          "momentit": [
+            {
+              "id": "23.30.01",
+              "numero": "01",
+              "nimi": "Oikeuskanslerinviraston toimintamenot",
+              "maaraaraha": 4336000
+            }
+          ],
+          "total": 4336000
+        },
+        {
+          "numero": "90",
+          "nimi": "Muut menot",
+          "momentit": [
+            {
+              "id": "23.90.21",
+              "numero": "21",
+              "nimi": "Kunniamerkit",
+              "maaraaraha": 700000
+            },
+            {
+              "id": "23.90.50",
+              "numero": "50",
+              "nimi": "Avustukset järjestöille",
+              "maaraaraha": 400000
+            },
+            {
+              "id": "23.90.66",
+              "numero": "66",
+              "nimi": "Osallistumismaksut ja maksuosuudet Euroopan hybridiuhkien torjunnan osaamiskeskukselle",
+              "maaraaraha": 2040000
+            }
+          ],
+          "total": 3140000
+        }
+      ],
+      "total": 238842000
+    },
+    {
+      "numero": "24",
+      "nimi": "ULKOMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Ulkoasiainhallinto",
+          "momentit": [
+            {
+              "id": "24.01.01",
+              "numero": "01",
+              "nimi": "Ulkoasiainhallinnon toimintamenot",
+              "maaraaraha": 245316000
+            },
+            {
+              "id": "24.01.02",
+              "numero": "02",
+              "nimi": "Team Finland -uudistuksen vienninedistämisen palvelut",
+              "maaraaraha": 24860000
+            },
+            {
+              "id": "24.01.20",
+              "numero": "20",
+              "nimi": "Tiede- ja kulttuuri-instituuttikiinteistöjen menot",
+              "maaraaraha": 1046000
+            },
+            {
+              "id": "24.01.29",
+              "numero": "29",
+              "nimi": "Ulkoministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 15843000
+            },
+            {
+              "id": "24.01.74",
+              "numero": "74",
+              "nimi": "Talonrakennukset",
+              "maaraaraha": 6000000
+            }
+          ],
+          "total": 293065000
+        },
+        {
+          "numero": "10",
+          "nimi": "Kriisinhallinta",
+          "momentit": [
+            {
+              "id": "24.10.20",
+              "numero": "20",
+              "nimi": "Suomalaisten kriisinhallintajoukkojen ylläpitomenot",
+              "maaraaraha": 53080000
+            },
+            {
+              "id": "24.10.21",
+              "numero": "21",
+              "nimi": "Siviilihenkilöstön osallistuminen kriisinhallintaan",
+              "maaraaraha": 17485000
+            },
+            {
+              "id": "24.10.66",
+              "numero": "66",
+              "nimi": "Rauhanvälitys",
+              "maaraaraha": 3900000
+            },
+            {
+              "id": "24.10.87",
+              "numero": "87",
+              "nimi": "CMI:n Rauhanrahaston pääoman korottaminen",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 74465000
+        },
+        {
+          "numero": "30",
+          "nimi": "Kansainvälinen kehitysyhteistyö",
+          "momentit": [
+            {
+              "id": "24.30.50",
+              "numero": "50",
+              "nimi": "Valtionapu Teollisen yhteistyön rahasto Oy:lle",
+              "maaraaraha": 0
+            },
+            {
+              "id": "24.30.66",
+              "numero": "66",
+              "nimi": "Varsinainen kehitysyhteistyö",
+              "maaraaraha": 456739000
+            },
+            {
+              "id": "24.30.67",
+              "numero": "67",
+              "nimi": "Demokratia- ja oikeusvaltiotuki",
+              "maaraaraha": 0
+            },
+            {
+              "id": "24.30.68",
+              "numero": "68",
+              "nimi": "Kehitysyhteistyön yhteistoimintahankkeet",
+              "maaraaraha": 13104000
+            },
+            {
+              "id": "24.30.69",
+              "numero": "69",
+              "nimi": "Tuki Ukrainalle",
+              "maaraaraha": 56869000
+            },
+            {
+              "id": "24.30.88",
+              "numero": "88",
+              "nimi": "Finnfundin (Teollisen yhteistyön rahasto Oy) pääoman korottaminen",
+              "maaraaraha": 5000000
+            },
+            {
+              "id": "24.30.89",
+              "numero": "89",
+              "nimi": "Kehityspoliittiset lainat ja sijoitukset",
+              "maaraaraha": 69730000
+            }
+          ],
+          "total": 601442000
+        },
+        {
+          "numero": "90",
+          "nimi": "Ulkoministeriön hallinnonalan muut menot",
+          "momentit": [
+            {
+              "id": "24.90.23",
+              "numero": "23",
+              "nimi": "Etyj-puheenjohtajuus",
+              "maaraaraha": 1938000
+            },
+            {
+              "id": "24.90.50",
+              "numero": "50",
+              "nimi": "Eräät valtionavut",
+              "maaraaraha": 1820000
+            },
+            {
+              "id": "24.90.51",
+              "numero": "51",
+              "nimi": "Hädänalaisten avustaminen",
+              "maaraaraha": 500000
+            },
+            {
+              "id": "24.90.66",
+              "numero": "66",
+              "nimi": "Eräät jäsenmaksut ja rahoitusosuudet",
+              "maaraaraha": 151562000
+            },
+            {
+              "id": "24.90.67",
+              "numero": "67",
+              "nimi": "Humanitaarinen katastrofiapu",
+              "maaraaraha": 30000000
+            },
+            {
+              "id": "24.90.95",
+              "numero": "95",
+              "nimi": "Kurssivaihtelut",
+              "maaraaraha": 500000
+            }
+          ],
+          "total": 186320000
+        }
+      ],
+      "total": 1155292000
+    },
+    {
+      "numero": "25",
+      "nimi": "OIKEUSMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Ministeriö ja hallinto",
+          "momentit": [
+            {
+              "id": "25.01.01",
+              "numero": "01",
+              "nimi": "Oikeusministeriön toimintamenot",
+              "maaraaraha": 23606000
+            },
+            {
+              "id": "25.01.03",
+              "numero": "03",
+              "nimi": "Oikeushallinnon erityisviranomaiset -viraston toimintamenot",
+              "maaraaraha": 23319000
+            },
+            {
+              "id": "25.01.05",
+              "numero": "05",
+              "nimi": "Oikeusrekisterikeskuksen toimintamenot",
+              "maaraaraha": 8588000
+            },
+            {
+              "id": "25.01.20",
+              "numero": "20",
+              "nimi": "Erityismenot",
+              "maaraaraha": 13943000
+            },
+            {
+              "id": "25.01.21",
+              "numero": "21",
+              "nimi": "Oikeusministeriön hallinnonalan tuottavuusmääräraha",
+              "maaraaraha": 0
+            },
+            {
+              "id": "25.01.22",
+              "numero": "22",
+              "nimi": "Oikeusministeriön hallinnonalan ICT-kehittäminen",
+              "maaraaraha": 19470000
+            },
+            {
+              "id": "25.01.27",
+              "numero": "27",
+              "nimi": "Kuurojen totuus- ja sovintoprosessi",
+              "maaraaraha": 0
+            },
+            {
+              "id": "25.01.29",
+              "numero": "29",
+              "nimi": "Oikeusministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 63510000
+            },
+            {
+              "id": "25.01.50",
+              "numero": "50",
+              "nimi": "Avustukset",
+              "maaraaraha": 13614000
+            },
+            {
+              "id": "25.01.51",
+              "numero": "51",
+              "nimi": "Eräät valtion maksamat korvaukset",
+              "maaraaraha": 19000000
+            },
+            {
+              "id": "25.01.66",
+              "numero": "66",
+              "nimi": "Kansainväliset jäsenmaksut ja rahoitusosuudet",
+              "maaraaraha": 457000
+            }
+          ],
+          "total": 185507000
+        },
+        {
+          "numero": "10",
+          "nimi": "Tuomioistuimet",
+          "momentit": [
+            {
+              "id": "25.10.01",
+              "numero": "01",
+              "nimi": "Korkeimman oikeuden toimintamenot",
+              "maaraaraha": 10108000
+            },
+            {
+              "id": "25.10.02",
+              "numero": "02",
+              "nimi": "Korkeimman hallinto-oikeuden toimintamenot",
+              "maaraaraha": 14420000
+            },
+            {
+              "id": "25.10.03",
+              "numero": "03",
+              "nimi": "Muiden tuomioistuinten toimintamenot",
+              "maaraaraha": 353752000
+            }
+          ],
+          "total": 378280000
+        },
+        {
+          "numero": "15",
+          "nimi": "Oikeuspalvelut",
+          "momentit": [
+            {
+              "id": "25.15.01",
+              "numero": "01",
+              "nimi": "Oikeuspalveluviraston toimintamenot",
+              "maaraaraha": 104402000
+            },
+            {
+              "id": "25.15.50",
+              "numero": "50",
+              "nimi": "Yksityisille oikeusavustajille maksettavat korvaukset",
+              "maaraaraha": 80410000
+            }
+          ],
+          "total": 184812000
+        },
+        {
+          "numero": "20",
+          "nimi": " Ulosotto",
+          "momentit": [
+            {
+              "id": "25.20.01",
+              "numero": "01",
+              "nimi": "Ulosottolaitoksen toimintamenot",
+              "maaraaraha": 114493000
+            }
+          ],
+          "total": 114493000
+        },
+        {
+          "numero": "30",
+          "nimi": "Syyttäjät",
+          "momentit": [
+            {
+              "id": "25.30.01",
+              "numero": "01",
+              "nimi": "Syyttäjälaitoksen toimintamenot",
+              "maaraaraha": 66128000
+            }
+          ],
+          "total": 66128000
+        },
+        {
+          "numero": "40",
+          "nimi": "Rangaistusten täytäntöönpano",
+          "momentit": [
+            {
+              "id": "25.40.01",
+              "numero": "01",
+              "nimi": "Rikosseuraamuslaitoksen toimintamenot",
+              "maaraaraha": 310056000
+            }
+          ],
+          "total": 310056000
+        },
+        {
+          "numero": "50",
+          "nimi": "Vaalimenot",
+          "momentit": [
+            {
+              "id": "25.50.01",
+              "numero": "01",
+              "nimi": "Vaalipiirilautakuntien toimintamenot",
+              "maaraaraha": 100000
+            },
+            {
+              "id": "25.50.20",
+              "numero": "20",
+              "nimi": "Vaalimenot",
+              "maaraaraha": 3574000
+            }
+          ],
+          "total": 3674000
+        }
+      ],
+      "total": 1242950000
+    },
+    {
+      "numero": "26",
+      "nimi": "SISÄMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto",
+          "momentit": [
+            {
+              "id": "26.01.01",
+              "numero": "01",
+              "nimi": "Sisäministeriön toimintamenot",
+              "maaraaraha": 18040000
+            },
+            {
+              "id": "26.01.04",
+              "numero": "04",
+              "nimi": "Kriisinhallintakeskuksen toimintamenot",
+              "maaraaraha": 2190000
+            },
+            {
+              "id": "26.01.23",
+              "numero": "23",
+              "nimi": "EU:n pelastuspalvelumekanismi lääkinnällisten materiaalien CBRN-varastointi",
+              "maaraaraha": 8522000
+            },
+            {
+              "id": "26.01.25",
+              "numero": "25",
+              "nimi": "Öljy- ja kemikaalivahinkojen torjunta",
+              "maaraaraha": 5500000
+            },
+            {
+              "id": "26.01.26",
+              "numero": "26",
+              "nimi": "EU:n osuus sisäisen turvallisuuden ja maahanmuuton hallintaan ohjelmakaudella 2021&mdash",
+              "maaraaraha": 0
+            },
+            {
+              "id": "26.01.27",
+              "numero": "27",
+              "nimi": "EU:n pelastuspalvelumekanismi CBRN-varastointi",
+              "maaraaraha": 24905000
+            },
+            {
+              "id": "26.01.29",
+              "numero": "29",
+              "nimi": "Sisäministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 168300000
+            },
+            {
+              "id": "26.01.50",
+              "numero": "50",
+              "nimi": "Eräät avustukset",
+              "maaraaraha": 3780000
+            },
+            {
+              "id": "26.01.51",
+              "numero": "51",
+              "nimi": "Eräät investointiavustukset",
+              "maaraaraha": 0
+            },
+            {
+              "id": "26.01.66",
+              "numero": "66",
+              "nimi": "Kansainvälisten järjestöjen jäsenmaksut ja maksuosuudet ulkomaille",
+              "maaraaraha": 1100000
+            }
+          ],
+          "total": 232337000
+        },
+        {
+          "numero": "10",
+          "nimi": "Poliisitoimi",
+          "momentit": [
+            {
+              "id": "26.10.01",
+              "numero": "01",
+              "nimi": "Poliisitoimen toimintamenot",
+              "maaraaraha": 1019807000
+            },
+            {
+              "id": "26.10.02",
+              "numero": "02",
+              "nimi": "Suojelupoliisin toimintamenot",
+              "maaraaraha": 73333000
+            },
+            {
+              "id": "26.10.20",
+              "numero": "20",
+              "nimi": "Maasta poistamis- ja noutokuljetuksista aiheutuvat menot",
+              "maaraaraha": 3868000
+            }
+          ],
+          "total": 1097008000
+        },
+        {
+          "numero": "20",
+          "nimi": "Rajavartiolaitos",
+          "momentit": [
+            {
+              "id": "26.20.01",
+              "numero": "01",
+              "nimi": "Rajavartiolaitoksen toimintamenot",
+              "maaraaraha": 329725000
+            },
+            {
+              "id": "26.20.70",
+              "numero": "70",
+              "nimi": "Rajavartiolaitoksen investoinnit",
+              "maaraaraha": 34250000
+            }
+          ],
+          "total": 363975000
+        },
+        {
+          "numero": "30",
+          "nimi": "Pelastustoimi ja hätäkeskustoiminta",
+          "momentit": [
+            {
+              "id": "26.30.01",
+              "numero": "01",
+              "nimi": "Pelastustoimen toimintamenot",
+              "maaraaraha": 2330000
+            },
+            {
+              "id": "26.30.02",
+              "numero": "02",
+              "nimi": "Hätäkeskuslaitoksen toimintamenot",
+              "maaraaraha": 75294000
+            },
+            {
+              "id": "26.30.03",
+              "numero": "03",
+              "nimi": "Pelastusopiston toimintamenot",
+              "maaraaraha": 21400000
+            },
+            {
+              "id": "26.30.20",
+              "numero": "20",
+              "nimi": "Erityismenot",
+              "maaraaraha": 4000000
+            }
+          ],
+          "total": 103024000
+        },
+        {
+          "numero": "40",
+          "nimi": "Maahanmuutto",
+          "momentit": [
+            {
+              "id": "26.40.01",
+              "numero": "01",
+              "nimi": "Maahanmuuttoviraston ja valtion vastaanottokeskusten toimintamenot",
+              "maaraaraha": 87869000
+            },
+            {
+              "id": "26.40.21",
+              "numero": "21",
+              "nimi": "Pakolaisten ja turvapaikanhakijoiden vastaanotto",
+              "maaraaraha": 80776000
+            },
+            {
+              "id": "26.40.22",
+              "numero": "22",
+              "nimi": "Vapaaehtoinen paluu",
+              "maaraaraha": 2318000
+            },
+            {
+              "id": "26.40.63",
+              "numero": "63",
+              "nimi": "Vastaanottotoiminnan asiakkaille maksettavat tuet",
+              "maaraaraha": 18387000
+            }
+          ],
+          "total": 189350000
+        }
+      ],
+      "total": 1985694000
+    },
+    {
+      "numero": "27",
+      "nimi": "PUOLUSTUSMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Puolustuspolitiikka ja hallinto",
+          "momentit": [
+            {
+              "id": "27.01.01",
+              "numero": "01",
+              "nimi": "Puolustusministeriön toimintamenot",
+              "maaraaraha": 21150000
+            },
+            {
+              "id": "27.01.29",
+              "numero": "29",
+              "nimi": "Puolustusministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 736360000
+            },
+            {
+              "id": "27.01.66",
+              "numero": "66",
+              "nimi": "Jäsenmaksut ja rahoitusosuudet",
+              "maaraaraha": 33896000
+            }
+          ],
+          "total": 791406000
+        },
+        {
+          "numero": "10",
+          "nimi": "Sotilaallinen maanpuolustus",
+          "momentit": [
+            {
+              "id": "27.10.01",
+              "numero": "01",
+              "nimi": "Puolustusvoimien toimintamenot",
+              "maaraaraha": 2622026000
+            },
+            {
+              "id": "27.10.18",
+              "numero": "18",
+              "nimi": "Puolustusmateriaalihankinnat",
+              "maaraaraha": 1452994000
+            },
+            {
+              "id": "27.10.19",
+              "numero": "19",
+              "nimi": "Monitoimihävittäjien hankinta",
+              "maaraaraha": 1354600000
+            },
+            {
+              "id": "27.10.50",
+              "numero": "50",
+              "nimi": "Maanpuolustus- ja veteraanijärjestöjen toiminnan tukeminen",
+              "maaraaraha": 9995000
+            }
+          ],
+          "total": 5439615000
+        },
+        {
+          "numero": "30",
+          "nimi": "Sotilaallinen kriisinhallinta",
+          "momentit": [
+            {
+              "id": "27.30.20",
+              "numero": "20",
+              "nimi": "Sotilaallisen kriisinhallinnan kalusto- ja hallintomenot",
+              "maaraaraha": 66015000
+            },
+            {
+              "id": "27.30.95",
+              "numero": "95",
+              "nimi": "Kurssivaihtelut",
+              "maaraaraha": 10000
+            }
+          ],
+          "total": 66025000
+        }
+      ],
+      "total": 6297046000
+    },
+    {
+      "numero": "28",
+      "nimi": "VALTIOVARAINMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto",
+          "momentit": [
+            {
+              "id": "28.01.01",
+              "numero": "01",
+              "nimi": "Valtiovarainministeriön toimintamenot",
+              "maaraaraha": 40341000
+            },
+            {
+              "id": "28.01.20",
+              "numero": "20",
+              "nimi": "Valtion kiinteistöstrategian toteuttaminen",
+              "maaraaraha": 3645000
+            },
+            {
+              "id": "28.01.21",
+              "numero": "21",
+              "nimi": "Valtiovarainministeriön hallinnonalan tuottavuusmääräraha",
+              "maaraaraha": 2306000
+            },
+            {
+              "id": "28.01.25",
+              "numero": "25",
+              "nimi": "Metallirahamenot",
+              "maaraaraha": 1600000
+            },
+            {
+              "id": "28.01.29",
+              "numero": "29",
+              "nimi": "Valtiovarainministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 164000000
+            },
+            {
+              "id": "28.01.66",
+              "numero": "66",
+              "nimi": "Kansainvälisten järjestöjen jäsenmaksut ja rahoitusosuudet",
+              "maaraaraha": 1200000
+            },
+            {
+              "id": "28.01.69",
+              "numero": "69",
+              "nimi": "Suomen Pankin eräiden sijoitustuottojen siirto Kreikan valtiolle",
+              "maaraaraha": 740000
+            }
+          ],
+          "total": 213832000
+        },
+        {
+          "numero": "10",
+          "nimi": "Verotus ja tulli",
+          "momentit": [
+            {
+              "id": "28.10.01",
+              "numero": "01",
+              "nimi": "Verohallinnon toimintamenot",
+              "maaraaraha": 402191000
+            },
+            {
+              "id": "28.10.02",
+              "numero": "02",
+              "nimi": "Tullin toimintamenot",
+              "maaraaraha": 200748000
+            },
+            {
+              "id": "28.10.03",
+              "numero": "03",
+              "nimi": "Kansallisen tulorekisterin toimintamenot",
+              "maaraaraha": 33652000
+            },
+            {
+              "id": "28.10.63",
+              "numero": "63",
+              "nimi": "Takaisin maksetut verot",
+              "maaraaraha": 3000000
+            },
+            {
+              "id": "28.10.95",
+              "numero": "95",
+              "nimi": "Verotukseen liittyvät korkomenot",
+              "maaraaraha": 20500000
+            },
+            {
+              "id": "28.10.97",
+              "numero": "97",
+              "nimi": "Autoveron vientipalautus",
+              "maaraaraha": 17000000
+            }
+          ],
+          "total": 677091000
+        },
+        {
+          "numero": "20",
+          "nimi": "Palvelut valtioyhteisölle",
+          "momentit": [
+            {
+              "id": "28.20.01",
+              "numero": "01",
+              "nimi": "Valtiokonttorin toimintamenot",
+              "maaraaraha": 36882000
+            },
+            {
+              "id": "28.20.02",
+              "numero": "02",
+              "nimi": "Keskitettyjen valuuttatilien kurssierot",
+              "maaraaraha": 600000
+            },
+            {
+              "id": "28.20.03",
+              "numero": "03",
+              "nimi": "Huoltovarmuuspankin palvelumaksu",
+              "maaraaraha": 1700000
+            },
+            {
+              "id": "28.20.07",
+              "numero": "07",
+              "nimi": "Valtion talous- ja henkilöstöhallinnon palvelukeskuksen toimintamenot",
+              "maaraaraha": 6932000
+            },
+            {
+              "id": "28.20.09",
+              "numero": "09",
+              "nimi": "Valtion tieto- ja viestintätekniikkakeskuksen toimintamenot ",
+              "maaraaraha": 4500000
+            },
+            {
+              "id": "28.20.11",
+              "numero": "11",
+              "nimi": "Verkkomaksaminen",
+              "maaraaraha": 500000
+            },
+            {
+              "id": "28.20.88",
+              "numero": "88",
+              "nimi": "Senaatti-konsernin liikelaitokset",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 51114000
+        },
+        {
+          "numero": "30",
+          "nimi": "Tilastotoimi, taloudellinen tutkimus ja rekisterihallinto",
+          "momentit": [
+            {
+              "id": "28.30.01",
+              "numero": "01",
+              "nimi": "Tilastokeskuksen toimintamenot",
+              "maaraaraha": 51313000
+            },
+            {
+              "id": "28.30.02",
+              "numero": "02",
+              "nimi": "Valtion taloudellisen tutkimuskeskuksen toimintamenot",
+              "maaraaraha": 5315000
+            },
+            {
+              "id": "28.30.03",
+              "numero": "03",
+              "nimi": "Digi- ja väestötietoviraston toimintamenot",
+              "maaraaraha": 51915000
+            },
+            {
+              "id": "28.30.04",
+              "numero": "04",
+              "nimi": "Sähköinen tunnistautuminen",
+              "maaraaraha": 7000000
+            },
+            {
+              "id": "28.30.05",
+              "numero": "05",
+              "nimi": "Rekisteriaineistojen tutkijakäytön tuki",
+              "maaraaraha": 900000
+            }
+          ],
+          "total": 116443000
+        },
+        {
+          "numero": "40",
+          "nimi": "Valtion luvat, valvonta ja palvelurakenteet",
+          "momentit": [
+            {
+              "id": "28.40.01",
+              "numero": "01",
+              "nimi": "Aluehallintoviraston toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "28.40.03",
+              "numero": "03",
+              "nimi": "Palvelurakenteiden ja valtion hallintorakenteiden kehittäminen ",
+              "maaraaraha": 216000
+            },
+            {
+              "id": "28.40.04",
+              "numero": "04",
+              "nimi": "Lupa- ja valvontaviraston toimintamenot",
+              "maaraaraha": 117599000
+            },
+            {
+              "id": "28.40.05",
+              "numero": "05",
+              "nimi": "Ahvenanmaan valtionviraston toimintamenot",
+              "maaraaraha": 1440000
+            }
+          ],
+          "total": 119255000
+        },
+        {
+          "numero": "50",
+          "nimi": "Eläkkeet ja korvaukset",
+          "momentit": [
+            {
+              "id": "28.50.15",
+              "numero": "15",
+              "nimi": "Eläkkeet",
+              "maaraaraha": 5643490000
+            },
+            {
+              "id": "28.50.16",
+              "numero": "16",
+              "nimi": "Ylimääräiset eläkkeet ja muut eläkemenot",
+              "maaraaraha": 2830000
+            },
+            {
+              "id": "28.50.50",
+              "numero": "50",
+              "nimi": "Vahingonkorvaukset",
+              "maaraaraha": 41160000
+            },
+            {
+              "id": "28.50.63",
+              "numero": "63",
+              "nimi": "Muiden eläkelaitosten vastattavaksi kuuluvat eläkemenot",
+              "maaraaraha": 395505000
+            },
+            {
+              "id": "28.50.95",
+              "numero": "95",
+              "nimi": "Muiden eläkelaitosten valtion puolesta maksamien eläkemenojen ja valtiolle maksamien ennakoiden korkomenot",
+              "maaraaraha": 22522000
+            }
+          ],
+          "total": 6105507000
+        },
+        {
+          "numero": "60",
+          "nimi": "Valtionhallinnon yhteiset henkilöstömenot",
+          "momentit": [
+            {
+              "id": "28.60.02",
+              "numero": "02",
+              "nimi": "Erikseen budjetoidut henkilöstömenot",
+              "maaraaraha": 500000
+            },
+            {
+              "id": "28.60.10",
+              "numero": "10",
+              "nimi": "Työturvallisuuden edistäminen",
+              "maaraaraha": 1120000
+            },
+            {
+              "id": "28.60.12",
+              "numero": "12",
+              "nimi": "Osaamisen kehittäminen",
+              "maaraaraha": 12000000
+            }
+          ],
+          "total": 13620000
+        },
+        {
+          "numero": "70",
+          "nimi": "Valtionhallinnon kehittäminen",
+          "momentit": [
+            {
+              "id": "28.70.01",
+              "numero": "01",
+              "nimi": "Toimintatapojen ja digitalisaation kehittäminen",
+              "maaraaraha": 22360000
+            },
+            {
+              "id": "28.70.40",
+              "numero": "40",
+              "nimi": "Turvallisuusviranomaisten viestintäverkot",
+              "maaraaraha": 30200000
+            }
+          ],
+          "total": 52560000
+        },
+        {
+          "numero": "80",
+          "nimi": "Siirrot Ahvenanmaan maakunnalle",
+          "momentit": [
+            {
+              "id": "28.80.30",
+              "numero": "30",
+              "nimi": "Ahvenanmaan tasoitusmaksu",
+              "maaraaraha": 231426000
+            },
+            {
+              "id": "28.80.34",
+              "numero": "34",
+              "nimi": "Ahvenanmaan verotasoitus",
+              "maaraaraha": 114290000
+            }
+          ],
+          "total": 345716000
+        },
+        {
+          "numero": "89",
+          "nimi": "Hyvinvointialueiden rahoitus",
+          "momentit": [
+            {
+              "id": "28.89.31",
+              "numero": "31",
+              "nimi": "Hyvinvointialueiden yleiskatteinen valtionrahoitus",
+              "maaraaraha": 27138863000
+            },
+            {
+              "id": "28.89.32",
+              "numero": "32",
+              "nimi": "Hyvinvointialueiden lisärahoitus",
+              "maaraaraha": 1000000
+            }
+          ],
+          "total": 27139863000
+        },
+        {
+          "numero": "90",
+          "nimi": "Kuntien tukeminen",
+          "momentit": [
+            {
+              "id": "28.90.30",
+              "numero": "30",
+              "nimi": "Valtionosuus kunnille peruspalvelujen järjestämiseen",
+              "maaraaraha": 3552300000
+            },
+            {
+              "id": "28.90.31",
+              "numero": "31",
+              "nimi": "Kuntien yhdistymisen taloudellinen tuki",
+              "maaraaraha": 11400000
+            },
+            {
+              "id": "28.90.35",
+              "numero": "35",
+              "nimi": "Valtion korvaus kunnille veroperustemuutoksista aiheutuvista verotulojen menetyksistä",
+              "maaraaraha": 534001000
+            }
+          ],
+          "total": 4097701000
+        },
+        {
+          "numero": "91",
+          "nimi": "Työllisyyden ja elinkeinoelämän tukeminen",
+          "momentit": [
+            {
+              "id": "28.91.41",
+              "numero": "41",
+              "nimi": "Energiaverotuki",
+              "maaraaraha": 44000000
+            }
+          ],
+          "total": 44000000
+        },
+        {
+          "numero": "92",
+          "nimi": "EU ja kansainväliset järjestöt",
+          "momentit": [
+            {
+              "id": "28.92.03",
+              "numero": "03",
+              "nimi": "Rahoitusvakausviraston toimintamenot",
+              "maaraaraha": 8656000
+            },
+            {
+              "id": "28.92.20",
+              "numero": "20",
+              "nimi": "Euroopan unionin osallistuminen matkamenojen korvauksiin",
+              "maaraaraha": 2200000
+            },
+            {
+              "id": "28.92.40",
+              "numero": "40",
+              "nimi": "Isäntämaakorvaus Pohjoismaiden Investointipankille",
+              "maaraaraha": 15922000
+            },
+            {
+              "id": "28.92.66",
+              "numero": "66",
+              "nimi": "Ukrainan makrotaloudellisen rahoitusavun korkomenot",
+              "maaraaraha": 10000000
+            },
+            {
+              "id": "28.92.67",
+              "numero": "67",
+              "nimi": "Kansainvälisille rahoituslaitoksille annettujen sitoumusten lunastaminen",
+              "maaraaraha": 10000
+            },
+            {
+              "id": "28.92.68",
+              "numero": "68",
+              "nimi": "Suomen osuus Euroopan jälleenrakennus- ja kehityspankin sekä Kansainvälisen rahoitusyhtiön pääoman korottamisesta",
+              "maaraaraha": 10100000
+            },
+            {
+              "id": "28.92.69",
+              "numero": "69",
+              "nimi": "Maksut Euroopan unionille",
+              "maaraaraha": 2783000000
+            },
+            {
+              "id": "28.92.88",
+              "numero": "88",
+              "nimi": "Suomen osuus Euroopan vakausmekanismin pääomasta",
+              "maaraaraha": 23080000
+            },
+            {
+              "id": "28.92.95",
+              "numero": "95",
+              "nimi": "Valtion takaus- ja takuusuoritukset",
+              "maaraaraha": 7620000
+            }
+          ],
+          "total": 2860588000
+        },
+        {
+          "numero": "99",
+          "nimi": "Erikseen budjetoidut valtionhallinnon menot",
+          "momentit": [
+            {
+              "id": "28.99.95",
+              "numero": "95",
+              "nimi": "Satunnaiset säädösperusteiset menot",
+              "maaraaraha": 300000
+            },
+            {
+              "id": "28.99.96",
+              "numero": "96",
+              "nimi": "Ennakoimattomat menot",
+              "maaraaraha": 2000000
+            },
+            {
+              "id": "28.99.97",
+              "numero": "97",
+              "nimi": "Valtion saatavien turvaaminen",
+              "maaraaraha": 600000
+            },
+            {
+              "id": "28.99.98",
+              "numero": "98",
+              "nimi": "Kassasijoitusten riskienhallinta",
+              "maaraaraha": 26000
+            }
+          ],
+          "total": 2926000
+        }
+      ],
+      "total": 41840216000
+    },
+    {
+      "numero": "29",
+      "nimi": "OPETUS- JA KULTTUURIMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto, kirkollisasiat ja toimialan yhteiset menot",
+          "momentit": [
+            {
+              "id": "29.01.01",
+              "numero": "01",
+              "nimi": "Opetus- ja kulttuuriministeriön toimintamenot",
+              "maaraaraha": 23422000
+            },
+            {
+              "id": "29.01.02",
+              "numero": "02",
+              "nimi": "Opetushallituksen toimintamenot",
+              "maaraaraha": 37906000
+            },
+            {
+              "id": "29.01.03",
+              "numero": "03",
+              "nimi": "Opetushallituksen yhteydessä toimivien viranomaisten toimintamenot",
+              "maaraaraha": 12278000
+            },
+            {
+              "id": "29.01.04",
+              "numero": "04",
+              "nimi": "Jatkuvan oppimisen ja työllisyyden palvelukeskuksen toimintamenot ",
+              "maaraaraha": 21352000
+            },
+            {
+              "id": "29.01.05",
+              "numero": "05",
+              "nimi": "Suomen Akatemian toimintamenot",
+              "maaraaraha": 12025000
+            },
+            {
+              "id": "29.01.06",
+              "numero": "06",
+              "nimi": "Kansallisarkiston toimintamenot ",
+              "maaraaraha": 29025000
+            },
+            {
+              "id": "29.01.07",
+              "numero": "07",
+              "nimi": "Museoviraston toimintamenot",
+              "maaraaraha": 30419000
+            },
+            {
+              "id": "29.01.08",
+              "numero": "08",
+              "nimi": "Taide- ja kulttuuriviraston toimintamenot",
+              "maaraaraha": 13859000
+            },
+            {
+              "id": "29.01.09",
+              "numero": "09",
+              "nimi": "Opintotuen muutoksenhakulautakunnan toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "29.01.10",
+              "numero": "10",
+              "nimi": "Taiteen edistämiskeskuksen toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "29.01.11",
+              "numero": "11",
+              "nimi": "Suomenlinnan hoitokunnan toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "29.01.12",
+              "numero": "12",
+              "nimi": "Museoviraston toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "29.01.13",
+              "numero": "13",
+              "nimi": "Saavutettavuuskirjasto Celian toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "29.01.14",
+              "numero": "14",
+              "nimi": "Kansallisen audiovisuaalisen instituutin toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "29.01.21",
+              "numero": "21",
+              "nimi": "Kansainvälinen yhteistyö",
+              "maaraaraha": 2516000
+            },
+            {
+              "id": "29.01.29",
+              "numero": "29",
+              "nimi": "Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 42952000
+            },
+            {
+              "id": "29.01.30",
+              "numero": "30",
+              "nimi": "Lasten ja nuorten harrastustoiminta",
+              "maaraaraha": 19400000
+            },
+            {
+              "id": "29.01.31",
+              "numero": "31",
+              "nimi": "Eräät Opetushallituksen menot ja avustukset",
+              "maaraaraha": 28224000
+            },
+            {
+              "id": "29.01.32",
+              "numero": "32",
+              "nimi": "Eräät avustukset ja apurahat kansainvälistymistä edistäviin ohjelmiin",
+              "maaraaraha": 87100000
+            },
+            {
+              "id": "29.01.50",
+              "numero": "50",
+              "nimi": "Eräät avustukset",
+              "maaraaraha": 1547000
+            },
+            {
+              "id": "29.01.51",
+              "numero": "51",
+              "nimi": "Avustukset uskonnolliseen toimintaan",
+              "maaraaraha": 2962000
+            },
+            {
+              "id": "29.01.52",
+              "numero": "52",
+              "nimi": "Valtion rahoitus evankelis-luterilaisen kirkon yhteiskunnallisiin tehtäviin",
+              "maaraaraha": 95651000
+            },
+            {
+              "id": "29.01.53",
+              "numero": "53",
+              "nimi": "Jatkuvan oppimisen ja osaamisen kehittäminen",
+              "maaraaraha": 2862000
+            },
+            {
+              "id": "29.01.66",
+              "numero": "66",
+              "nimi": "Rahoitusosuudet kansainvälisille järjestöille",
+              "maaraaraha": 2196000
+            }
+          ],
+          "total": 465696000
+        },
+        {
+          "numero": "10",
+          "nimi": "Varhaiskasvatus, esi- ja perusopetus ja vapaa sivistystyö",
+          "momentit": [
+            {
+              "id": "29.10.01",
+              "numero": "01",
+              "nimi": "Valtion yleissivistävän koulutuksen toimintamenot",
+              "maaraaraha": 44011000
+            },
+            {
+              "id": "29.10.20",
+              "numero": "20",
+              "nimi": "Perusopetuksen, varhaiskasvatuksen ja vapaan sivistystyön yhteiset menot",
+              "maaraaraha": 41800000
+            },
+            {
+              "id": "29.10.30",
+              "numero": "30",
+              "nimi": "Valtionosuus ja -avustus esi- ja perusopetuksen ja varhaiskasvatuksen käyttökustannuksiin",
+              "maaraaraha": 632929000
+            },
+            {
+              "id": "29.10.31",
+              "numero": "31",
+              "nimi": " Valtionosuus ja -avustus vapaan sivistystyön oppilaitosten käyttökustannuksiin",
+              "maaraaraha": 181217000
+            },
+            {
+              "id": "29.10.51",
+              "numero": "51",
+              "nimi": "Valtionavustus järjestöille",
+              "maaraaraha": 2542000
+            }
+          ],
+          "total": 902499000
+        },
+        {
+          "numero": "20",
+          "nimi": "Ammatillinen koulutus ja lukiokoulutus",
+          "momentit": [
+            {
+              "id": "29.20.01",
+              "numero": "01",
+              "nimi": "Valtion ammatillisen koulutuksen toimintamenot",
+              "maaraaraha": 9419000
+            },
+            {
+              "id": "29.20.21",
+              "numero": "21",
+              "nimi": "Ammatillisen koulutuksen ja lukiokoulutuksen yhteiset menot",
+              "maaraaraha": 8362000
+            },
+            {
+              "id": "29.20.30",
+              "numero": "30",
+              "nimi": "Valtionosuus ja -avustus ammatilliseen koulutukseen",
+              "maaraaraha": 1034433000
+            },
+            {
+              "id": "29.20.35",
+              "numero": "35",
+              "nimi": "Valtionosuus ja -avustus lukiokoulutuksen käyttökustannuksiin",
+              "maaraaraha": 361165000
+            }
+          ],
+          "total": 1413379000
+        },
+        {
+          "numero": "40",
+          "nimi": "Korkeakouluopetus ja tutkimus",
+          "momentit": [
+            {
+              "id": "29.40.20",
+              "numero": "20",
+              "nimi": "Korkeakoululaitoksen ja tieteen yhteiset menot",
+              "maaraaraha": 125046000
+            },
+            {
+              "id": "29.40.50",
+              "numero": "50",
+              "nimi": "Valtionrahoitus yliopistojen toimintaan",
+              "maaraaraha": 2313732000
+            },
+            {
+              "id": "29.40.51",
+              "numero": "51",
+              "nimi": "Suomen Akatemian tutkimusmäärärahat",
+              "maaraaraha": 502208000
+            },
+            {
+              "id": "29.40.54",
+              "numero": "54",
+              "nimi": "Strateginen tutkimusrahoitus",
+              "maaraaraha": 54631000
+            },
+            {
+              "id": "29.40.55",
+              "numero": "55",
+              "nimi": "Valtionrahoitus ammattikorkeakoulujen toimintaan",
+              "maaraaraha": 1038681000
+            },
+            {
+              "id": "29.40.56",
+              "numero": "56",
+              "nimi": "Tiedepoliittisten tavoitteiden edistäminen",
+              "maaraaraha": 23609000
+            },
+            {
+              "id": "29.40.66",
+              "numero": "66",
+              "nimi": "Rahoitusosuudet kansainvälisille järjestöille",
+              "maaraaraha": 27713000
+            }
+          ],
+          "total": 4085620000
+        },
+        {
+          "numero": "70",
+          "nimi": "Opintotuki",
+          "momentit": [
+            {
+              "id": "29.70.52",
+              "numero": "52",
+              "nimi": "Opintolainojen valtiontakaus",
+              "maaraaraha": 250300000
+            },
+            {
+              "id": "29.70.55",
+              "numero": "55",
+              "nimi": "Opintoraha ja asumislisä",
+              "maaraaraha": 906260000
+            },
+            {
+              "id": "29.70.57",
+              "numero": "57",
+              "nimi": "Korkeakouluopiskelijoiden ateriatuki",
+              "maaraaraha": 40000000
+            },
+            {
+              "id": "29.70.59",
+              "numero": "59",
+              "nimi": "Koulumatkatuki",
+              "maaraaraha": 94200000
+            }
+          ],
+          "total": 1290760000
+        },
+        {
+          "numero": "80",
+          "nimi": "Taide ja kulttuuri",
+          "momentit": [
+            {
+              "id": "29.80.16",
+              "numero": "16",
+              "nimi": "Ylimääräiset taiteilija- ja sanomalehtimieseläkkeet",
+              "maaraaraha": 23047000
+            },
+            {
+              "id": "29.80.20",
+              "numero": "20",
+              "nimi": "Museoviraston kulttuuri- ja nähtävyyskohteiden tilakustannukset",
+              "maaraaraha": 22446000
+            },
+            {
+              "id": "29.80.21",
+              "numero": "21",
+              "nimi": "Taiteen ja kulttuurin yhteiset menot",
+              "maaraaraha": 576000
+            },
+            {
+              "id": "29.80.30",
+              "numero": "30",
+              "nimi": "Valtionavustukset yleisten kirjastojen toimintaan",
+              "maaraaraha": 9185000
+            },
+            {
+              "id": "29.80.31",
+              "numero": "31",
+              "nimi": "Valtionosuus esittävän taiteen ja museoiden käyttökustannuksiin",
+              "maaraaraha": 155153000
+            },
+            {
+              "id": "29.80.34",
+              "numero": "34",
+              "nimi": "Valtionosuus ja -avustus taiteen perusopetuksen käyttökustannuksiin",
+              "maaraaraha": 104573000
+            },
+            {
+              "id": "29.80.40",
+              "numero": "40",
+              "nimi": "Korvaus Suomenlinnan huoltoliikenteen käyttötappioon",
+              "maaraaraha": 252000
+            },
+            {
+              "id": "29.80.41",
+              "numero": "41",
+              "nimi": "Eräät käyttöoikeuskorvaukset",
+              "maaraaraha": 22678000
+            },
+            {
+              "id": "29.80.50",
+              "numero": "50",
+              "nimi": "Avustukset taiteen ja kulttuurin edistämiseen",
+              "maaraaraha": 83151000
+            },
+            {
+              "id": "29.80.51",
+              "numero": "51",
+              "nimi": "Apurahat taiteilijoille, kirjailijoille ja kääntäjille",
+              "maaraaraha": 19443000
+            },
+            {
+              "id": "29.80.53",
+              "numero": "53",
+              "nimi": "Valtionavustus tilakustannuksiin",
+              "maaraaraha": 31276000
+            },
+            {
+              "id": "29.80.55",
+              "numero": "55",
+              "nimi": "Digitaalisen kulttuuriperinnön saatavuus ja säilyttäminen",
+              "maaraaraha": 2300000
+            },
+            {
+              "id": "29.80.56",
+              "numero": "56",
+              "nimi": "Valtionrahoitus kansallisten taidelaitosten toimintaan",
+              "maaraaraha": 68432000
+            },
+            {
+              "id": "29.80.72",
+              "numero": "72",
+              "nimi": "Kansallisgallerian ja valtion taideteostoimikunnan kokoelmien kartuttaminen",
+              "maaraaraha": 1683000
+            },
+            {
+              "id": "29.80.75",
+              "numero": "75",
+              "nimi": "Toimitilojen ja kiinteistövarallisuuden perusparannukset ja kunnossapito",
+              "maaraaraha": 3249000
+            },
+            {
+              "id": "29.80.95",
+              "numero": "95",
+              "nimi": "Kulttuuriympäristön suojelusta aiheutuvat menot",
+              "maaraaraha": 40000
+            }
+          ],
+          "total": 547484000
+        },
+        {
+          "numero": "90",
+          "nimi": "Liikuntatoimi",
+          "momentit": [
+            {
+              "id": "29.90.20",
+              "numero": "20",
+              "nimi": "Liikuntatoimen yhteiset menot",
+              "maaraaraha": 726000
+            },
+            {
+              "id": "29.90.30",
+              "numero": "30",
+              "nimi": "Valtionosuudet kunnille ja liikunnan koulutuskeskuksille",
+              "maaraaraha": 42427000
+            },
+            {
+              "id": "29.90.50",
+              "numero": "50",
+              "nimi": "Liikunnan ja urheilun edistäminen",
+              "maaraaraha": 114630000
+            },
+            {
+              "id": "29.90.51",
+              "numero": "51",
+              "nimi": "Liikunnallisen elämäntavan ja liikuntaolosuhteiden edistäminen",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 157783000
+        },
+        {
+          "numero": "91",
+          "nimi": "Nuorisotyö",
+          "momentit": [
+            {
+              "id": "29.91.20",
+              "numero": "20",
+              "nimi": "Nuorisotyön yhteiset menot",
+              "maaraaraha": 712000
+            },
+            {
+              "id": "29.91.30",
+              "numero": "30",
+              "nimi": "Valtionosuudet kuntien nuorisotoimeen",
+              "maaraaraha": 7627000
+            },
+            {
+              "id": "29.91.50",
+              "numero": "50",
+              "nimi": "Nuorisotyön edistäminen ",
+              "maaraaraha": 31165000
+            },
+            {
+              "id": "29.91.51",
+              "numero": "51",
+              "nimi": "Nuorten työpajatoiminta, etsivä nuorisotyö sekä koulu- ja oppilaitosnuorisotyö",
+              "maaraaraha": 31000000
+            }
+          ],
+          "total": 70504000
+        }
+      ],
+      "total": 8933725000
+    },
+    {
+      "numero": "30",
+      "nimi": "MAA- JA METSÄTALOUSMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto ja tutkimus",
+          "momentit": [
+            {
+              "id": "30.01.01",
+              "numero": "01",
+              "nimi": "Maa- ja metsätalousministeriön toimintamenot",
+              "maaraaraha": 22962000
+            },
+            {
+              "id": "30.01.05",
+              "numero": "05",
+              "nimi": "Luonnonvarakeskuksen toimintamenot",
+              "maaraaraha": 88494000
+            },
+            {
+              "id": "30.01.22",
+              "numero": "22",
+              "nimi": "Tutkimus ja kehittäminen",
+              "maaraaraha": 8243000
+            },
+            {
+              "id": "30.01.29",
+              "numero": "29",
+              "nimi": "Maa- ja metsätalousministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 32652000
+            },
+            {
+              "id": "30.01.40",
+              "numero": "40",
+              "nimi": "Maa- ja elintarviketalouden sekä luonnonvaratalouden huoltovarmuuden vahvistaminen, viennin edistäminen ja arvonlisän kehittäminen",
+              "maaraaraha": 2050000
+            },
+            {
+              "id": "30.01.66",
+              "numero": "66",
+              "nimi": "Kansainvälinen toiminta",
+              "maaraaraha": 4239000
+            }
+          ],
+          "total": 158640000
+        },
+        {
+          "numero": "10",
+          "nimi": "Maaseudun kehittäminen",
+          "momentit": [
+            {
+              "id": "30.10.40",
+              "numero": "40",
+              "nimi": "Maatalouden aloittamis- ja investointiavustukset",
+              "maaraaraha": 110000000
+            },
+            {
+              "id": "30.10.41",
+              "numero": "41",
+              "nimi": "Maaseutuelinkeinotoiminnan korkotuki",
+              "maaraaraha": 40000000
+            },
+            {
+              "id": "30.10.42",
+              "numero": "42",
+              "nimi": "Luopumistuet ja -eläkkeet",
+              "maaraaraha": 10600000
+            },
+            {
+              "id": "30.10.43",
+              "numero": "43",
+              "nimi": "Eläinten hyvinvointikorvaukset ",
+              "maaraaraha": 74000000
+            },
+            {
+              "id": "30.10.50",
+              "numero": "50",
+              "nimi": "Valtionavustus maatalouden neuvontapalveluihin ja eräisiin muihin kehittämistoimiin",
+              "maaraaraha": 3576000
+            },
+            {
+              "id": "30.10.51",
+              "numero": "51",
+              "nimi": "Porotalouden edistäminen",
+              "maaraaraha": 2123000
+            },
+            {
+              "id": "30.10.54",
+              "numero": "54",
+              "nimi": "Hevostalouden edistäminen",
+              "maaraaraha": 26992000
+            },
+            {
+              "id": "30.10.55",
+              "numero": "55",
+              "nimi": "Valtionavustus 4H-toimintaan",
+              "maaraaraha": 3805000
+            },
+            {
+              "id": "30.10.63",
+              "numero": "63",
+              "nimi": "Maaseudun kehittäminen",
+              "maaraaraha": 3040000
+            },
+            {
+              "id": "30.10.64",
+              "numero": "64",
+              "nimi": "EU:n ja valtion rahoitusosuus alueelliseen ja paikalliseen maaseudun kehittämiseen",
+              "maaraaraha": 165910000
+            }
+          ],
+          "total": 440046000
+        },
+        {
+          "numero": "20",
+          "nimi": "Maa- ja elintarviketalous",
+          "momentit": [
+            {
+              "id": "30.20.01",
+              "numero": "01",
+              "nimi": "Ruokaviraston toimintamenot",
+              "maaraaraha": 80015000
+            },
+            {
+              "id": "30.20.20",
+              "numero": "20",
+              "nimi": "Eläinlääkintähuolto ja kasvintuhoojien torjunta",
+              "maaraaraha": 10268000
+            },
+            {
+              "id": "30.20.40",
+              "numero": "40",
+              "nimi": "Maa- ja puutarhatalouden kansallinen tuki",
+              "maaraaraha": 350000000
+            },
+            {
+              "id": "30.20.41",
+              "numero": "41",
+              "nimi": "EU-tulotuki ja EU-markkinatuki",
+              "maaraaraha": 526200000
+            },
+            {
+              "id": "30.20.43",
+              "numero": "43",
+              "nimi": "Ympäristökorvaukset, luonnonmukainen tuotanto, neuvonta ja ei-tuotannolliset investoinnit",
+              "maaraaraha": 265016000
+            },
+            {
+              "id": "30.20.44",
+              "numero": "44",
+              "nimi": "Luonnonhaittakorvaukset",
+              "maaraaraha": 463815000
+            },
+            {
+              "id": "30.20.46",
+              "numero": "46",
+              "nimi": "EU-rahoitteinen ruokaketjun kehittäminen",
+              "maaraaraha": 11005000
+            },
+            {
+              "id": "30.20.47",
+              "numero": "47",
+              "nimi": "Ruokaketjun kehittäminen",
+              "maaraaraha": 3336000
+            },
+            {
+              "id": "30.20.49",
+              "numero": "49",
+              "nimi": "Alkutuotannon tuotantopanosomavaraisuuden lisääminen",
+              "maaraaraha": 8050000
+            },
+            {
+              "id": "30.20.60",
+              "numero": "60",
+              "nimi": "Siirto interventiorahastoon",
+              "maaraaraha": 400000
+            },
+            {
+              "id": "30.20.62",
+              "numero": "62",
+              "nimi": "Eräät valtionavustukset",
+              "maaraaraha": 6367000
+            }
+          ],
+          "total": 1724472000
+        },
+        {
+          "numero": "40",
+          "nimi": "Luonnonvaratalous",
+          "momentit": [
+            {
+              "id": "30.40.20",
+              "numero": "20",
+              "nimi": "Kalakannan hoitovelvoitteet",
+              "maaraaraha": 3512000
+            },
+            {
+              "id": "30.40.21",
+              "numero": "21",
+              "nimi": "Vesivarojen käytön ja hoidon menot",
+              "maaraaraha": 13815000
+            },
+            {
+              "id": "30.40.22",
+              "numero": "22",
+              "nimi": "Luonnonvara- ja biotalouden edistäminen",
+              "maaraaraha": 5268000
+            },
+            {
+              "id": "30.40.31",
+              "numero": "31",
+              "nimi": "Vesi- ja kalataloushankkeiden tukeminen",
+              "maaraaraha": 6136000
+            },
+            {
+              "id": "30.40.40",
+              "numero": "40",
+              "nimi": "Eräät luonnonvaratalouden korvaukset",
+              "maaraaraha": 1541000
+            },
+            {
+              "id": "30.40.41",
+              "numero": "41",
+              "nimi": "Hirvieläinten aiheuttamien vahinkojen korvaaminen",
+              "maaraaraha": 3800000
+            },
+            {
+              "id": "30.40.42",
+              "numero": "42",
+              "nimi": "Petoeläinten aiheuttamien vahinkojen korvaaminen",
+              "maaraaraha": 8850000
+            },
+            {
+              "id": "30.40.44",
+              "numero": "44",
+              "nimi": "Tuki puuntuotannon kestävyyden turvaamiseen",
+              "maaraaraha": 36247000
+            },
+            {
+              "id": "30.40.45",
+              "numero": "45",
+              "nimi": "Metsäluonnon hoidon edistäminen",
+              "maaraaraha": 11027000
+            },
+            {
+              "id": "30.40.46",
+              "numero": "46",
+              "nimi": "Valtionavustus Suomen metsäkeskukselle",
+              "maaraaraha": 41074000
+            },
+            {
+              "id": "30.40.47",
+              "numero": "47",
+              "nimi": "Tuki joutoalueiden metsitykseen",
+              "maaraaraha": 1000000
+            },
+            {
+              "id": "30.40.50",
+              "numero": "50",
+              "nimi": "Riistatalouden edistäminen",
+              "maaraaraha": 13697000
+            },
+            {
+              "id": "30.40.51",
+              "numero": "51",
+              "nimi": "Kalatalouden edistäminen",
+              "maaraaraha": 9625000
+            },
+            {
+              "id": "30.40.53",
+              "numero": "53",
+              "nimi": "Eräät luonnonvaratalouden valtionavustukset",
+              "maaraaraha": 1332000
+            },
+            {
+              "id": "30.40.62",
+              "numero": "62",
+              "nimi": "Elinkeinokalatalouden edistäminen",
+              "maaraaraha": 18723000
+            }
+          ],
+          "total": 175647000
+        },
+        {
+          "numero": "64",
+          "nimi": "Metsähallitus",
+          "momentit": [
+            {
+              "id": "30.64.50",
+              "numero": "50",
+              "nimi": "Metsähallituksen eräät julkiset hallintotehtävät",
+              "maaraaraha": 7007000
+            }
+          ],
+          "total": 7007000
+        },
+        {
+          "numero": "70",
+          "nimi": "Maanmittaus ja asunto-osakkeiden kirjaaminen",
+          "momentit": [
+            {
+              "id": "30.70.01",
+              "numero": "01",
+              "nimi": "Maanmittauslaitoksen toimintamenot",
+              "maaraaraha": 45253000
+            },
+            {
+              "id": "30.70.40",
+              "numero": "40",
+              "nimi": "Kiinteistötoimitusten tukemisesta aiheutuvat menot",
+              "maaraaraha": 2000000
+            }
+          ],
+          "total": 47253000
+        }
+      ],
+      "total": 2553065000
+    },
+    {
+      "numero": "31",
+      "nimi": "LIIKENNE- JA VIESTINTÄMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto ja toimialan yhteiset menot",
+          "momentit": [
+            {
+              "id": "31.01.01",
+              "numero": "01",
+              "nimi": "Liikenne- ja viestintäministeriön toimintamenot",
+              "maaraaraha": 17168000
+            },
+            {
+              "id": "31.01.02",
+              "numero": "02",
+              "nimi": "Liikenne- ja viestintäviraston toimintamenot",
+              "maaraaraha": 88750000
+            },
+            {
+              "id": "31.01.03",
+              "numero": "03",
+              "nimi": "Väyläviraston toimintamenot",
+              "maaraaraha": 57534000
+            },
+            {
+              "id": "31.01.04",
+              "numero": "04",
+              "nimi": "Ilmatieteen laitoksen toimintamenot",
+              "maaraaraha": 47966000
+            },
+            {
+              "id": "31.01.29",
+              "numero": "29",
+              "nimi": "Liikenne- ja viestintäministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 588465000
+            },
+            {
+              "id": "31.01.88",
+              "numero": "88",
+              "nimi": "Osakehankinnat",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 799883000
+        },
+        {
+          "numero": "10",
+          "nimi": "Liikenne- ja viestintäverkot",
+          "momentit": [
+            {
+              "id": "31.10.20",
+              "numero": "20",
+              "nimi": "Perusväylänpito",
+              "maaraaraha": 1412382000
+            },
+            {
+              "id": "31.10.30",
+              "numero": "30",
+              "nimi": "Avustukset liikenne- ja viestintäverkkoihin",
+              "maaraaraha": 95850000
+            },
+            {
+              "id": "31.10.31",
+              "numero": "31",
+              "nimi": "Eräät avustukset",
+              "maaraaraha": 9400000
+            },
+            {
+              "id": "31.10.76",
+              "numero": "76",
+              "nimi": "Maa- ja vesialueiden hankinnat ja korvaukset",
+              "maaraaraha": 24997000
+            },
+            {
+              "id": "31.10.77",
+              "numero": "77",
+              "nimi": "Väyläverkon kehittäminen",
+              "maaraaraha": 474676000
+            },
+            {
+              "id": "31.10.79",
+              "numero": "79",
+              "nimi": "Elinkaarirahoitushankkeet",
+              "maaraaraha": 97700000
+            }
+          ],
+          "total": 2115005000
+        },
+        {
+          "numero": "20",
+          "nimi": "Liikenteen ja viestinnän palvelut",
+          "momentit": [
+            {
+              "id": "31.20.20",
+              "numero": "20",
+              "nimi": "Saaristo- ja yhteysalusliikenteen ostot ja kehittäminen",
+              "maaraaraha": 19886000
+            },
+            {
+              "id": "31.20.21",
+              "numero": "21",
+              "nimi": "Julkisen henkilöliikenteen palvelujen ostot ja kehittäminen",
+              "maaraaraha": 107324000
+            },
+            {
+              "id": "31.20.22",
+              "numero": "22",
+              "nimi": "Yöjunarungon vaunukaluston hankinta",
+              "maaraaraha": 4612000
+            },
+            {
+              "id": "31.20.43",
+              "numero": "43",
+              "nimi": "Meriliikenteessä käytettävien alusten kilpailukyvyn parantaminen",
+              "maaraaraha": 89000000
+            },
+            {
+              "id": "31.20.51",
+              "numero": "51",
+              "nimi": "Avustukset liikenteen ja viestinnän palveluihin",
+              "maaraaraha": 119270000
+            },
+            {
+              "id": "31.20.60",
+              "numero": "60",
+              "nimi": "Siirto valtion televisio- ja radiorahastoon",
+              "maaraaraha": 593652000
+            }
+          ],
+          "total": 933744000
+        }
+      ],
+      "total": 3848632000
+    },
+    {
+      "numero": "32",
+      "nimi": "TYÖ- JA ELINKEINOMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto",
+          "momentit": [
+            {
+              "id": "32.01.01",
+              "numero": "01",
+              "nimi": "Työ- ja elinkeinoministeriön toimintamenot",
+              "maaraaraha": 36847000
+            },
+            {
+              "id": "32.01.02",
+              "numero": "02",
+              "nimi": "Elinvoimakeskusten toimintamenot",
+              "maaraaraha": 185250000
+            },
+            {
+              "id": "32.01.04",
+              "numero": "04",
+              "nimi": "Geologian tutkimuskeskuksen toimintamenot",
+              "maaraaraha": 36403000
+            },
+            {
+              "id": "32.01.05",
+              "numero": "05",
+              "nimi": "Innovaatiorahoituskeskus Business Finlandin toimintamenot",
+              "maaraaraha": 70684000
+            },
+            {
+              "id": "32.01.06",
+              "numero": "06",
+              "nimi": "Kilpailu- ja kuluttajaviraston toimintamenot",
+              "maaraaraha": 21381000
+            },
+            {
+              "id": "32.01.07",
+              "numero": "07",
+              "nimi": "Patentti- ja rekisterihallituksen toimintamenot",
+              "maaraaraha": 12954000
+            },
+            {
+              "id": "32.01.08",
+              "numero": "08",
+              "nimi": "Turvallisuus- ja kemikaaliviraston toimintamenot",
+              "maaraaraha": 22658000
+            },
+            {
+              "id": "32.01.09",
+              "numero": "09",
+              "nimi": "Energiaviraston toimintamenot",
+              "maaraaraha": 11421000
+            },
+            {
+              "id": "32.01.10",
+              "numero": "10",
+              "nimi": "Digitalisaation kehittäminen",
+              "maaraaraha": 4575000
+            },
+            {
+              "id": "32.01.11",
+              "numero": "11",
+              "nimi": "Huoltovarmuuskeskuksen toimintamenot",
+              "maaraaraha": 24668000
+            },
+            {
+              "id": "32.01.20",
+              "numero": "20",
+              "nimi": "Siviilipalvelus",
+              "maaraaraha": 5600000
+            },
+            {
+              "id": "32.01.29",
+              "numero": "29",
+              "nimi": "Työ- ja elinkeinoministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 49072000
+            },
+            {
+              "id": "32.01.40",
+              "numero": "40",
+              "nimi": "Valtionavustus kestävää kasvupolitiikkaa edistäville toimijoille",
+              "maaraaraha": 2093000
+            },
+            {
+              "id": "32.01.41",
+              "numero": "41",
+              "nimi": "Erityisavustus Teknologian tutkimuskeskus VTT Oy:n tutkimusinfrastruktuuriin",
+              "maaraaraha": 67621000
+            },
+            {
+              "id": "32.01.49",
+              "numero": "49",
+              "nimi": "Valtionavustus Teknologian tutkimuskeskus VTT Oy:n toimintaan",
+              "maaraaraha": 125114000
+            },
+            {
+              "id": "32.01.51",
+              "numero": "51",
+              "nimi": "Valtion osuus merimiespalvelutoiminnasta",
+              "maaraaraha": 1500000
+            },
+            {
+              "id": "32.01.53",
+              "numero": "53",
+              "nimi": "Matkustajien paluukuljetukset ja korvaukset",
+              "maaraaraha": 400000
+            },
+            {
+              "id": "32.01.66",
+              "numero": "66",
+              "nimi": "Kansainvälisten järjestöjen jäsenmaksut ja rahoitusosuudet",
+              "maaraaraha": 19834000
+            },
+            {
+              "id": "32.01.95",
+              "numero": "95",
+              "nimi": "Eräät oikeudenkäyntikulut ja korvaukset",
+              "maaraaraha": 50000
+            }
+          ],
+          "total": 698125000
+        },
+        {
+          "numero": "20",
+          "nimi": "Uudistuminen ja vähähiilisyys",
+          "momentit": [
+            {
+              "id": "32.20.20",
+              "numero": "20",
+              "nimi": "Energiatehokkuuden ja uusiutuvan energian käytön edistäminen",
+              "maaraaraha": 3400000
+            },
+            {
+              "id": "32.20.40",
+              "numero": "40",
+              "nimi": "Tutkimus-, kehittämis- ja innovaatiotoiminnan tukeminen",
+              "maaraaraha": 669464000
+            },
+            {
+              "id": "32.20.41",
+              "numero": "41",
+              "nimi": "Energiatuki",
+              "maaraaraha": 276713000
+            },
+            {
+              "id": "32.20.42",
+              "numero": "42",
+              "nimi": "Puhtaan energian Suomen -kärkihankkeet",
+              "maaraaraha": 0
+            },
+            {
+              "id": "32.20.43",
+              "numero": "43",
+              "nimi": "Energiaintensiivisen teollisuuden sähköistämistuki",
+              "maaraaraha": 150000000
+            },
+            {
+              "id": "32.20.44",
+              "numero": "44",
+              "nimi": "Suomen elpymis- ja palautumisvälineen mukainen investointituki vähähiilisen vedyn ja hiilidioksidin talteenoton ja hyödyntämisen edistämiseen",
+              "maaraaraha": 55354000
+            },
+            {
+              "id": "32.20.46",
+              "numero": "46",
+              "nimi": "Laivanrakennuksen innovaatiotuki",
+              "maaraaraha": 20900000
+            },
+            {
+              "id": "32.20.47",
+              "numero": "47",
+              "nimi": "Julkisen liikennesähkön ja -kaasun lataus- ja tankkausinfrastruktuurin edistäminen",
+              "maaraaraha": 8000000
+            },
+            {
+              "id": "32.20.48",
+              "numero": "48",
+              "nimi": "Uusiutuvan energian tuotantotuki",
+              "maaraaraha": 239531000
+            },
+            {
+              "id": "32.20.49",
+              "numero": "49",
+              "nimi": "InvestEU-ohjelman kansallinen rahoitusosuus",
+              "maaraaraha": 0
+            },
+            {
+              "id": "32.20.83",
+              "numero": "83",
+              "nimi": "Lainat tutkimus- ja innovaatiotoimintaan",
+              "maaraaraha": 147730000
+            },
+            {
+              "id": "32.20.87",
+              "numero": "87",
+              "nimi": "Pääomalainat teollisuuden uudistumiseen ja yritysvetoisten liiketoimintaekosysteemien kehittämiseen",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 1571092000
+        },
+        {
+          "numero": "30",
+          "nimi": "Työllisyys ja yrittäjyys",
+          "momentit": [
+            {
+              "id": "32.30.32",
+              "numero": "32",
+              "nimi": "Valtionavustus kunnille Ohjaamoiden monialaisuuden vahvistamiseen",
+              "maaraaraha": 0
+            },
+            {
+              "id": "32.30.38",
+              "numero": "38",
+              "nimi": "Ansioturvaan liittyvien työttömyysturvatehtävien ja ulkomaisen työvoiman käyttöä koskevan alueellisen linjauksen laadintaan liittyvien tehtävien hoitaminen Ahvenanmaan maakunnassa",
+              "maaraaraha": 30000
+            },
+            {
+              "id": "32.30.40",
+              "numero": "40",
+              "nimi": "Alueiden kestävän kasvun ja elinvoiman tukeminen",
+              "maaraaraha": 6221000
+            },
+            {
+              "id": "32.30.42",
+              "numero": "42",
+              "nimi": "Yritysten kehittämishankkeiden tukeminen",
+              "maaraaraha": 4000000
+            },
+            {
+              "id": "32.30.44",
+              "numero": "44",
+              "nimi": "Alueellinen kuljetustuki",
+              "maaraaraha": 3700000
+            },
+            {
+              "id": "32.30.46",
+              "numero": "46",
+              "nimi": "Pk-yritysten tutkimus- ja kehittämistoiminnan vahvistaminen",
+              "maaraaraha": 2400000
+            },
+            {
+              "id": "32.30.52",
+              "numero": "52",
+              "nimi": "Palkkaturva",
+              "maaraaraha": 33460000
+            },
+            {
+              "id": "32.30.64",
+              "numero": "64",
+              "nimi": "EU:n ja valtion rahoitusosuus EU:n alue- ja rakennepolitiikan ja muihin koheesiopolitiikan ohjelmiin",
+              "maaraaraha": 583577000
+            },
+            {
+              "id": "32.30.95",
+              "numero": "95",
+              "nimi": "Vaikuttavuusinvestointien tuotonmaksu ",
+              "maaraaraha": 6000000
+            }
+          ],
+          "total": 639388000
+        },
+        {
+          "numero": "40",
+          "nimi": "Yritysten erityisrahoitus",
+          "momentit": [
+            {
+              "id": "32.40.42",
+              "numero": "42",
+              "nimi": "Valtiontuki sähköhuollon varmistamiseksi",
+              "maaraaraha": 1000000
+            },
+            {
+              "id": "32.40.47",
+              "numero": "47",
+              "nimi": "Finnvera Oyj:n tappiokorvaukset",
+              "maaraaraha": 25153000
+            },
+            {
+              "id": "32.40.48",
+              "numero": "48",
+              "nimi": "Korko- ja muu tuki julkisesti tuetuille vienti- ja alusluotoille",
+              "maaraaraha": 61200000
+            },
+            {
+              "id": "32.40.60",
+              "numero": "60",
+              "nimi": "Siirrot hallinnonalan rahastoihin",
+              "maaraaraha": 1020000
+            },
+            {
+              "id": "32.40.82",
+              "numero": "82",
+              "nimi": "Lainat Finnvera Oyj:n varainhankintaan",
+              "maaraaraha": 0
+            },
+            {
+              "id": "32.40.88",
+              "numero": "88",
+              "nimi": "Pääomasijoitus Suomen Teollisuussijoitus Oy:lle",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 88373000
+        },
+        {
+          "numero": "50",
+          "nimi": "Kotoutuminen ja kansainvälinen osaaminen",
+          "momentit": [
+            {
+              "id": "32.50.03",
+              "numero": "03",
+              "nimi": "Kotoutumisen ja työvoiman maahanmuuton edistäminen",
+              "maaraaraha": 2109000
+            },
+            {
+              "id": "32.50.30",
+              "numero": "30",
+              "nimi": "Valtion korvaukset kotoutumisen edistämisestä",
+              "maaraaraha": 349744000
+            }
+          ],
+          "total": 351853000
+        }
+      ],
+      "total": 3348831000
+    },
+    {
+      "numero": "33",
+      "nimi": "SOSIAALI- JA TERVEYSMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Hallinto",
+          "momentit": [
+            {
+              "id": "33.01.01",
+              "numero": "01",
+              "nimi": "Sosiaali- ja terveysministeriön toimintamenot",
+              "maaraaraha": 39844000
+            },
+            {
+              "id": "33.01.04",
+              "numero": "04",
+              "nimi": "Valtion mielisairaaloiden toimintamenot",
+              "maaraaraha": 2083000
+            },
+            {
+              "id": "33.01.05",
+              "numero": "05",
+              "nimi": "Terveyden ja hyvinvoinnin laitoksen alaisten lastensuojeluyksiköiden toimintamenot",
+              "maaraaraha": 5310000
+            },
+            {
+              "id": "33.01.06",
+              "numero": "06",
+              "nimi": "Terveyden ja hyvinvoinnin laitoksen alaisen vankiterveydenhuollon yksikön toimintamenot",
+              "maaraaraha": 23766000
+            },
+            {
+              "id": "33.01.07",
+              "numero": "07",
+              "nimi": "Sosiaaliturva-asioiden muutoksenhakulautakunnan toimintamenot",
+              "maaraaraha": 9731000
+            },
+            {
+              "id": "33.01.08",
+              "numero": "08",
+              "nimi": "Vankiterveydenhuollon yksikön ulkopuoliset terveyspalvelut",
+              "maaraaraha": 8527000
+            },
+            {
+              "id": "33.01.25",
+              "numero": "25",
+              "nimi": "Sosiaali- ja terveydenhuollon valtakunnallinen tiedonhallinta ",
+              "maaraaraha": 21355000
+            },
+            {
+              "id": "33.01.29",
+              "numero": "29",
+              "nimi": "Sosiaali- ja terveysministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 37000000
+            },
+            {
+              "id": "33.01.66",
+              "numero": "66",
+              "nimi": "Kansainväliset jäsenmaksut ja maksuosuudet",
+              "maaraaraha": 6274000
+            }
+          ],
+          "total": 153890000
+        },
+        {
+          "numero": "02",
+          "nimi": "Valvonta",
+          "momentit": [
+            {
+              "id": "33.02.03",
+              "numero": "03",
+              "nimi": "Säteilyturvakeskuksen toimintamenot",
+              "maaraaraha": 18767000
+            },
+            {
+              "id": "33.02.05",
+              "numero": "05",
+              "nimi": "Sosiaali- ja terveysalan lupa- ja valvontaviraston toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "33.02.06",
+              "numero": "06",
+              "nimi": "Lääkealan turvallisuus- ja kehittämiskeskuksen toimintamenot",
+              "maaraaraha": 4601000
+            },
+            {
+              "id": "33.02.07",
+              "numero": "07",
+              "nimi": "Lupa- ja valvontaviraston työsuojeluosaston toimintamenot",
+              "maaraaraha": 29482000
+            },
+            {
+              "id": "33.02.08",
+              "numero": "08",
+              "nimi": "Sosiaali- ja terveysalan tietolupaviranomaisen toimintamenot ",
+              "maaraaraha": 2140000
+            },
+            {
+              "id": "33.02.20",
+              "numero": "20",
+              "nimi": "Oikeuslääketieteellisen kuolemansyyn selvittämisen menot",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 54990000
+        },
+        {
+          "numero": "03",
+          "nimi": "Tutkimus- ja kehittämistoiminta",
+          "momentit": [
+            {
+              "id": "33.03.04",
+              "numero": "04",
+              "nimi": "Terveyden ja hyvinvoinnin laitoksen toimintamenot",
+              "maaraaraha": 89447000
+            },
+            {
+              "id": "33.03.25",
+              "numero": "25",
+              "nimi": "Terveys- ja hyvinvointialan kasvuohjelma",
+              "maaraaraha": 0
+            },
+            {
+              "id": "33.03.31",
+              "numero": "31",
+              "nimi": "Hyvinvoinnin ja terveyden edistäminen",
+              "maaraaraha": 2000000
+            },
+            {
+              "id": "33.03.50",
+              "numero": "50",
+              "nimi": "Valtionosuus Työterveyslaitoksen toimintaan",
+              "maaraaraha": 23446000
+            },
+            {
+              "id": "33.03.63",
+              "numero": "63",
+              "nimi": "Eräät erityishankkeet",
+              "maaraaraha": 7327000
+            }
+          ],
+          "total": 122220000
+        },
+        {
+          "numero": "10",
+          "nimi": "Perhe- ja asumiskustannusten tasaus, perustoimeentulotuki ja eräät palvelut",
+          "momentit": [
+            {
+              "id": "33.10.50",
+              "numero": "50",
+              "nimi": "Perhe-etuudet",
+              "maaraaraha": 1600420000
+            },
+            {
+              "id": "33.10.53",
+              "numero": "53",
+              "nimi": "Sotilasavustus",
+              "maaraaraha": 25100000
+            },
+            {
+              "id": "33.10.54",
+              "numero": "54",
+              "nimi": "Asumistuki",
+              "maaraaraha": 1097400000
+            },
+            {
+              "id": "33.10.56",
+              "numero": "56",
+              "nimi": "Vammaisten henkilöiden tulkkauspalvelut",
+              "maaraaraha": 67850000
+            },
+            {
+              "id": "33.10.57",
+              "numero": "57",
+              "nimi": "Perustoimeentulotuki",
+              "maaraaraha": 1042100000
+            },
+            {
+              "id": "33.10.60",
+              "numero": "60",
+              "nimi": "Kansaneläkelaitoksen sosiaaliturvarahastojen toimintakulut",
+              "maaraaraha": 452437000
+            }
+          ],
+          "total": 4285307000
+        },
+        {
+          "numero": "20",
+          "nimi": "Työttömyysturva",
+          "momentit": [
+            {
+              "id": "33.20.31",
+              "numero": "31",
+              "nimi": "Valtion korvaus hyvinvointialueille kuntouttavan työtoiminnan järjestämisestä",
+              "maaraaraha": 25484000
+            },
+            {
+              "id": "33.20.50",
+              "numero": "50",
+              "nimi": "Valtionosuus työttömyysetuuksien ansioturvasta ja vuorottelukorvauksesta",
+              "maaraaraha": 597000000
+            },
+            {
+              "id": "33.20.52",
+              "numero": "52",
+              "nimi": "Valtionosuus työttömyysetuuksien perusturvasta",
+              "maaraaraha": 1445200000
+            },
+            {
+              "id": "33.20.55",
+              "numero": "55",
+              "nimi": "Valtionosuudet Työllisyysrahastolle",
+              "maaraaraha": 0
+            }
+          ],
+          "total": 2067684000
+        },
+        {
+          "numero": "30",
+          "nimi": "Sairausvakuutus",
+          "momentit": [
+            {
+              "id": "33.30.50",
+              "numero": "50",
+              "nimi": "Korvaukset rajat ylittävästä terveydenhuollosta",
+              "maaraaraha": 2000000
+            },
+            {
+              "id": "33.30.60",
+              "numero": "60",
+              "nimi": "Valtion osuus sairausvakuutuslaista johtuvista menoista",
+              "maaraaraha": 1754800000
+            }
+          ],
+          "total": 1756800000
+        },
+        {
+          "numero": "40",
+          "nimi": "Eläkkeet",
+          "momentit": [
+            {
+              "id": "33.40.50",
+              "numero": "50",
+              "nimi": "Valtion osuus merimieseläkekassan menoista",
+              "maaraaraha": 66700000
+            },
+            {
+              "id": "33.40.51",
+              "numero": "51",
+              "nimi": "Valtion osuus maatalousyrittäjän eläkelaista johtuvista menoista",
+              "maaraaraha": 846300000
+            },
+            {
+              "id": "33.40.52",
+              "numero": "52",
+              "nimi": "Valtion osuus yrittäjän eläkelaista johtuvista menoista",
+              "maaraaraha": 593400000
+            },
+            {
+              "id": "33.40.53",
+              "numero": "53",
+              "nimi": "Valtion korvaus lapsen hoidon ja opiskelun ajalta kertyvästä eläkkeestä",
+              "maaraaraha": 32300000
+            },
+            {
+              "id": "33.40.54",
+              "numero": "54",
+              "nimi": "Valtion osuus maatalousyrittäjien tapaturmavakuutuksen kustannuksista",
+              "maaraaraha": 14200000
+            },
+            {
+              "id": "33.40.60",
+              "numero": "60",
+              "nimi": "Valtion osuus kansaneläkelaista ja eräistä muista laeista johtuvista menoista",
+              "maaraaraha": 3969400000
+            }
+          ],
+          "total": 5522300000
+        },
+        {
+          "numero": "50",
+          "nimi": "Veteraanien tukeminen",
+          "momentit": [
+            {
+              "id": "33.50.30",
+              "numero": "30",
+              "nimi": "Valtion korvaus sodista kärsineiden huoltoon",
+              "maaraaraha": 600000
+            },
+            {
+              "id": "33.50.50",
+              "numero": "50",
+              "nimi": "Rintamalisät",
+              "maaraaraha": 2300000
+            },
+            {
+              "id": "33.50.52",
+              "numero": "52",
+              "nimi": "Sotilasvammalain mukaiset korvaukset",
+              "maaraaraha": 35550000
+            },
+            {
+              "id": "33.50.53",
+              "numero": "53",
+              "nimi": "Valtionapu sotainvalidien puolisoiden kuntoutustoimintaan",
+              "maaraaraha": 400000
+            },
+            {
+              "id": "33.50.55",
+              "numero": "55",
+              "nimi": "Eräät kuntoutustoiminnan menot",
+              "maaraaraha": 400000
+            },
+            {
+              "id": "33.50.58",
+              "numero": "58",
+              "nimi": "Rintamaveteraanien kuntoutus ja kotona asumista tukevat palvelut",
+              "maaraaraha": 50000000
+            }
+          ],
+          "total": 89250000
+        },
+        {
+          "numero": "60",
+          "nimi": "Sosiaali- ja terveydenhuollon tukeminen",
+          "momentit": [
+            {
+              "id": "33.60.30",
+              "numero": "30",
+              "nimi": "Valtion korvaus terveydenhuollon ja sosiaalihuollon valtakunnallisen valmiuden kustannuksiin",
+              "maaraaraha": 350000
+            },
+            {
+              "id": "33.60.31",
+              "numero": "31",
+              "nimi": "Sosiaali- ja terveydenhuollon palvelujen kansallinen kehittäminen",
+              "maaraaraha": 17550000
+            },
+            {
+              "id": "33.60.32",
+              "numero": "32",
+              "nimi": "Valtion rahoitus terveydenhuollon yksiköille yliopistotasoiseen tutkimukseen sekä sosiaalityön yliopistotasoiseen tutkimukseen",
+              "maaraaraha": 40000000
+            },
+            {
+              "id": "33.60.33",
+              "numero": "33",
+              "nimi": "Valtion korvaus sosiaali- ja terveydenhuollon yksiköille sosiaali- ja terveydenhuollon henkilöstön erikoistumiskoulutukseen",
+              "maaraaraha": 89890000
+            },
+            {
+              "id": "33.60.34",
+              "numero": "34",
+              "nimi": "Valtion korvaus erinäisistä terveydenhuollon kustannuksista",
+              "maaraaraha": 15200000
+            },
+            {
+              "id": "33.60.35",
+              "numero": "35",
+              "nimi": "Valtionosuus korkeakouluopiskelijoiden terveydenhuoltoon ",
+              "maaraaraha": 73348000
+            },
+            {
+              "id": "33.60.36",
+              "numero": "36",
+              "nimi": "Valtionavustus sosiaali- ja terveyspalvelujen turvaamiseksi",
+              "maaraaraha": 2662000
+            },
+            {
+              "id": "33.60.37",
+              "numero": "37",
+              "nimi": "Valtion korvaus hyvinvointialueille kielteisen turvapaikkapäätöksen saaneiden henkilöiden kiireellisen sosiaalihuollon kustannuksiin",
+              "maaraaraha": 1600000
+            },
+            {
+              "id": "33.60.38",
+              "numero": "38",
+              "nimi": "Valtion korvaus Puolustusvoimien terveydenhuollon valmiuden ja varautumisen kustannuksiin",
+              "maaraaraha": 7500000
+            },
+            {
+              "id": "33.60.39",
+              "numero": "39",
+              "nimi": "Palvelurakenteen kehittäminen",
+              "maaraaraha": 2300000
+            },
+            {
+              "id": "33.60.40",
+              "numero": "40",
+              "nimi": "Valtion rahoitus lääkäri- ja lääkintähelikopteritoiminnan menoihin",
+              "maaraaraha": 41100000
+            },
+            {
+              "id": "33.60.52",
+              "numero": "52",
+              "nimi": "Valtion rahoitus turvakotitoiminnan menoihin",
+              "maaraaraha": 31000000
+            },
+            {
+              "id": "33.60.61",
+              "numero": "61",
+              "nimi": "Elpymis- ja palautumissuunnitelman rahoitus sosiaali- ja terveydenhuoltoon",
+              "maaraaraha": 0
+            },
+            {
+              "id": "33.60.63",
+              "numero": "63",
+              "nimi": "Valtionavustus sosiaalialan osaamiskeskusten toimintaan",
+              "maaraaraha": 1250000
+            },
+            {
+              "id": "33.60.64",
+              "numero": "64",
+              "nimi": "Valtion korvaus rikosasioiden sovittelun järjestämisen kustannuksiin",
+              "maaraaraha": 7600000
+            }
+          ],
+          "total": 331350000
+        },
+        {
+          "numero": "70",
+          "nimi": "Terveyden ja toimintakyvyn edistäminen",
+          "momentit": [
+            {
+              "id": "33.70.20",
+              "numero": "20",
+              "nimi": "Rokotteiden hankinta",
+              "maaraaraha": 40710000
+            },
+            {
+              "id": "33.70.21",
+              "numero": "21",
+              "nimi": "Terveysvalvonta",
+              "maaraaraha": 430000
+            },
+            {
+              "id": "33.70.22",
+              "numero": "22",
+              "nimi": "Tartuntatautien valvonta",
+              "maaraaraha": 460000
+            },
+            {
+              "id": "33.70.50",
+              "numero": "50",
+              "nimi": "Terveyden edistäminen",
+              "maaraaraha": 9650000
+            },
+            {
+              "id": "33.70.51",
+              "numero": "51",
+              "nimi": "Valtion korvaus työterveyshuollon erikoislääkärikoulutuksesta aiheutuviin kustannuksiin",
+              "maaraaraha": 2900000
+            },
+            {
+              "id": "33.70.52",
+              "numero": "52",
+              "nimi": "Valtionavustus UKK-instituutin toimintaan",
+              "maaraaraha": 918000
+            },
+            {
+              "id": "33.70.53",
+              "numero": "53",
+              "nimi": "Valtion rahoitus pelihaittojen ehkäisyyn ja vähentämiseen",
+              "maaraaraha": 1500000
+            },
+            {
+              "id": "33.70.54",
+              "numero": "54",
+              "nimi": "Valtionavustukset ruoka-aputoiminnan tukeen ",
+              "maaraaraha": 3000000
+            }
+          ],
+          "total": 59568000
+        },
+        {
+          "numero": "80",
+          "nimi": "Maatalousyrittäjien ja turkistuottajien lomitustoiminta",
+          "momentit": [
+            {
+              "id": "33.80.40",
+              "numero": "40",
+              "nimi": "Valtion korvaus maatalousyrittäjien lomituspalvelujen kustannuksiin",
+              "maaraaraha": 112600000
+            },
+            {
+              "id": "33.80.41",
+              "numero": "41",
+              "nimi": "Valtion korvaus turkistuottajien lomituspalvelujen kustannuksiin",
+              "maaraaraha": 1300000
+            },
+            {
+              "id": "33.80.42",
+              "numero": "42",
+              "nimi": "Valtion korvaus poronhoitajien sijaisavun kustannuksiin",
+              "maaraaraha": 500000
+            },
+            {
+              "id": "33.80.50",
+              "numero": "50",
+              "nimi": "Valtion korvaus maatalousyrittäjien ja turkistuottajien lomituspalvelujen hallintomenoihin",
+              "maaraaraha": 14000000
+            }
+          ],
+          "total": 128400000
+        },
+        {
+          "numero": "90",
+          "nimi": "Avustukset terveyden ja sosiaalisen hyvinvoinnin edistämiseen",
+          "momentit": [
+            {
+              "id": "33.90.50",
+              "numero": "50",
+              "nimi": "Avustukset yhdistyksille ja säätiöille terveyden ja sosiaalisen hyvinvoinnin edistämiseen",
+              "maaraaraha": 268588000
+            }
+          ],
+          "total": 268588000
+        }
+      ],
+      "total": 14840347000
+    },
+    {
+      "numero": "35",
+      "nimi": "YMPÄRISTÖMINISTERIÖN HALLINNONALA",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Ympäristöhallinnon toimintamenot",
+          "momentit": [
+            {
+              "id": "35.01.01",
+              "numero": "01",
+              "nimi": "Ympäristöministeriön toimintamenot",
+              "maaraaraha": 38451000
+            },
+            {
+              "id": "35.01.04",
+              "numero": "04",
+              "nimi": "Suomen ympäristökeskuksen toimintamenot",
+              "maaraaraha": 34260000
+            },
+            {
+              "id": "35.01.29",
+              "numero": "29",
+              "nimi": "Ympäristöministeriön hallinnonalan arvonlisäveromenot",
+              "maaraaraha": 11435000
+            },
+            {
+              "id": "35.01.65",
+              "numero": "65",
+              "nimi": "Avustukset järjestöille ja ympäristönhoitoon",
+              "maaraaraha": 2025000
+            }
+          ],
+          "total": 86171000
+        },
+        {
+          "numero": "10",
+          "nimi": "Ympäristön- ja luonnonsuojelu",
+          "momentit": [
+            {
+              "id": "35.10.20",
+              "numero": "20",
+              "nimi": "Ympäristövahinkojen ehkäiseminen ja jälkihoito",
+              "maaraaraha": 3040000
+            },
+            {
+              "id": "35.10.21",
+              "numero": "21",
+              "nimi": "Eräät luonnonsuojelun menot",
+              "maaraaraha": 15540000
+            },
+            {
+              "id": "35.10.22",
+              "numero": "22",
+              "nimi": "Eräät ympäristömenot",
+              "maaraaraha": 4830000
+            },
+            {
+              "id": "35.10.23",
+              "numero": "23",
+              "nimi": "Itämeren ja vesien suojelun edistäminen",
+              "maaraaraha": 12235000
+            },
+            {
+              "id": "35.10.52",
+              "numero": "52",
+              "nimi": "Metsähallituksen julkiset hallintotehtävät",
+              "maaraaraha": 47649000
+            },
+            {
+              "id": "35.10.61",
+              "numero": "61",
+              "nimi": "Vesien- ja ympäristönhoidon tukeminen",
+              "maaraaraha": 8042000
+            },
+            {
+              "id": "35.10.63",
+              "numero": "63",
+              "nimi": "Luonnonsuojelualueiden hankinta- ja korvausmenot",
+              "maaraaraha": 39380000
+            },
+            {
+              "id": "35.10.66",
+              "numero": "66",
+              "nimi": "Kansainvälisen yhteistyön jäsenmaksut ja rahoitusosuudet",
+              "maaraaraha": 2062000
+            },
+            {
+              "id": "35.10.67",
+              "numero": "67",
+              "nimi": "Siirto Ympäristövahinkorahastolle",
+              "maaraaraha": 3000000
+            }
+          ],
+          "total": 135778000
+        },
+        {
+          "numero": "20",
+          "nimi": "Yhdyskunnat, rakentaminen ja asuminen",
+          "momentit": [
+            {
+              "id": "35.20.01",
+              "numero": "01",
+              "nimi": "Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot",
+              "maaraaraha": 0
+            },
+            {
+              "id": "35.20.31",
+              "numero": "31",
+              "nimi": "Asumisneuvonnan kehittäminen ja laajentaminen",
+              "maaraaraha": 2000000
+            },
+            {
+              "id": "35.20.33",
+              "numero": "33",
+              "nimi": "Ohjelma pitkäaikaisasunnottomuuden poistamiseen",
+              "maaraaraha": 4650000
+            },
+            {
+              "id": "35.20.35",
+              "numero": "35",
+              "nimi": "Avustukset alueiden käytön ja rakentamisen digitalisaatioon",
+              "maaraaraha": 3700000
+            },
+            {
+              "id": "35.20.55",
+              "numero": "55",
+              "nimi": "Avustukset korjaustoimintaan",
+              "maaraaraha": 6985000
+            },
+            {
+              "id": "35.20.57",
+              "numero": "57",
+              "nimi": "Valtion tukeman asuntokannan avustukset",
+              "maaraaraha": 80600000
+            },
+            {
+              "id": "35.20.58",
+              "numero": "58",
+              "nimi": "Valtion tukeman asuntotuotannon valtuudet",
+              "maaraaraha": 152020000
+            },
+            {
+              "id": "35.20.60",
+              "numero": "60",
+              "nimi": "Siirto Valtion asuntorahastoon",
+              "maaraaraha": 0
+            },
+            {
+              "id": "35.20.64",
+              "numero": "64",
+              "nimi": "Avustukset rakennusperinnön hoitoon",
+              "maaraaraha": 1700000
+            },
+            {
+              "id": "35.20.95",
+              "numero": "95",
+              "nimi": "InvestEU-ohjelman kansallinen rahoitusosuus",
+              "maaraaraha": 19910000
+            }
+          ],
+          "total": 271565000
+        }
+      ],
+      "total": 493514000
+    },
+    {
+      "numero": "36",
+      "nimi": "VALTIONVELAN KOROT",
+      "luvut": [
+        {
+          "numero": "01",
+          "nimi": "Valtionvelan korko",
+          "momentit": [
+            {
+              "id": "36.01.90",
+              "numero": "90",
+              "nimi": "Valtionvelan korko",
+              "maaraaraha": 3223632000
+            }
+          ],
+          "total": 3223632000
+        },
+        {
+          "numero": "09",
+          "nimi": "Muut menot valtionvelasta",
+          "momentit": [
+            {
+              "id": "36.09.20",
+              "numero": "20",
+              "nimi": "Palkkiot ja muut menot valtionvelasta",
+              "maaraaraha": 22434000
+            }
+          ],
+          "total": 22434000
+        }
+      ],
+      "total": 3246066000
+    }
+  ],
+  "totalBudget": 90201326000,
+  "year": 2026,
+  "generatedAt": "2026-04-13T19:51:49.293Z"
+}
